@@ -169,6 +169,7 @@ export const experiences = [
   {
     id: 0,
     img:brickowImg,
+    role:"Backend Intern",
     company: "Brickow",
     date: "June 2023 - July 2023",
     desc: " Designed and implemented RESTful APIs using Node.js and Express.js, allowing seamless communication between the frontend and backend.Successfully added a new feature that enabled users to retrieve bills for a specific customer,implementing data retrieval and filtering logic on the backend using MongoDB queries.",
