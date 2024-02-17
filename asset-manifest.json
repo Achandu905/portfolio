@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.b568fdc4.js",
+    "static/media/meme_generator.png": "/portfolio/static/media/meme_generator.902c81d2cd90a9728f6c.png",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.db7c8de2f99fced39f92.jpg",
+    "static/media/mcq_generator.png": "/portfolio/static/media/mcq_generator.c243dd67d7e869f152b6.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.9ffc06e2c969c0602bc1.png",
+    "static/media/National_Institute_of_Technology,_Nagaland_Logo.png": "/portfolio/static/media/National_Institute_of_Technology,_Nagaland_Logo.5e23ececa8ea339ff3bf.png",
+    "static/media/gpt.png": "/portfolio/static/media/gpt.dc763ed734cd143a0e11.png",
+    "static/media/blood_bank.png": "/portfolio/static/media/blood_bank.aa43a4fac2c381910920.png",
+    "static/media/sufhaoew.ntr.webp": "/portfolio/static/media/sufhaoew.ntr.1d3dd62a827b302fa3e9.webp",
+    "static/media/download.jpg": "/portfolio/static/media/download.35ee1d0546351eb99d09.jpg",
+    "static/media/brickow_logo.jpg": "/portfolio/static/media/brickow_logo.04b01272cd02053fa7ed.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.b568fdc4.js.map": "/portfolio/static/js/main.b568fdc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b568fdc4.js"
+  ]
+}
