@@ -18,7 +18,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Achandu905",
-  resume:"https://drive.google.com/file/d/1gj98Sxq-2DrsK_IP2fbip_hgM1fGaUDf/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1PndOAK0WRyRsYZ9KKkaR3merOk-w_QYB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chandu-ajmeera-39b737238",
   twitter: "https://x.com/AjmeeraPunnam?t=Q2ij07bQr5-fMOA4F_3teQ&s=09",
   insta: "https://www.instagram.com/_chandu__01?igsh=dzFsOWpmYWh3ejZv",
