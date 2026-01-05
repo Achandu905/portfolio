@@ -2,6 +2,7 @@ import crhsImg from '../images/education/download.jpg';
 import vaagdeviImg from '../images/education/sufhaoew.ntr.webp';
 import nitnImg from '../images/experience/National_Institute_of_Technology,_Nagaland_Logo.png';
 import brickowImg from '../images/experience/brickow_logo.jpg';
+import genpactImg from '../images/experience/genpact.png';
 import ineouronImg from '../images/experience/ineuron.png';
 import bloodImg from '../images/projects/blood_bank.png';
 import ecommerceImg from '../images/projects/ecommerce.png';
@@ -168,6 +169,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img:genpactImg,
+    role:"Consultant - Agentic AI POD ",
+    company: "Genpact",
+    date: "February 2025 - Present",
+    desc: " Working in the Agentic AI POD team for the Agentic AI Accounts Payable Suite.Contributing to the AP Capture module, automating document extraction for accounts payable processes using Microsoft Doc Intelligence.",
+    skills: [
+      "Java",
+      "Spring Boot",
+      "Microsoft Doc Intelligence",
+      "ReactJS"
+    ],
+    
+  },
+  {
+    id: 1,
     img:brickowImg,
     role:"Backend Intern",
     company: "Brickow",
@@ -188,7 +204,7 @@ export const experiences = [
     
   },
   {
-    id: 1,
+    id: 2,
     img: nitnImg,
     role: "Coding Club Secretary",
     company: "National Institute of Technology, Nagaland",
@@ -205,7 +221,7 @@ desc: "As the Secretary of the Coding Club, I was responsible for organizing and
    
   },
   {
-    id: 2,
+    id: 3,
     img:ineouronImg,
     role: "Campus Tech Leader",
     company: "Ineuron.ai",
